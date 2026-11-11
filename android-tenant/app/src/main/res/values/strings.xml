@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Keldan Properties</string>
+    <string name="title_activity_main">Keldan Properties</string>
+    <string name="package_name">com.keldan.tenant</string>
+    <string name="custom_url_scheme">com.keldan.tenant</string>
+</resources>
